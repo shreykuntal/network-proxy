@@ -1,0 +1,19 @@
+#!/bin/bash
+
+mkdir -p out
+PROXY="http://127.0.0.1:7000"
+URL="https://www.w3schools.com"
+CONCURRENCY=20
+TOTAL=20
+
+for i in $(seq 1 $TOTAL); do
+    curl -x "$PROXY" "$URL" > out/resp_$i.html &
+    
+    if (( i % CONCURRENCY == 0 )); then
+        wait
+    fi
+done
+
+wait
+
+echo "Responses saved in ./out/"

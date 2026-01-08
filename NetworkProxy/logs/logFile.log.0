@@ -1,0 +1,511 @@
+Jan 08, 2026 7:31:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:57992
+Requested Host:Port  www.iitr.ac.in:80
+Requested Target  http://www.iitr.ac.in/
+Action  Allowed
+Response Status  HTTP/1.1 301 Moved Permanently
+Size Transferred  178
+
+Jan 08, 2026 7:32:41 PM Log put
+INFO: Client IP:Port  /127.0.0.1:35952
+Requested Host:Port  www.iitr.ac.in:80
+Requested Target  http://www.iitr.ac.in/
+Action  Allowed
+Response Status  HTTP/1.1 301 Moved Permanently
+Size Transferred  178
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47378
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47412
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47408
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47474
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47476
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47368
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47516
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47484
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47498
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47358
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47348
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47406
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47420
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47456
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47450
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47398
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47384
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47514
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47434
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:44:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:47464
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 7:52:42 PM Log put
+INFO: Client IP:Port  /127.0.0.1:43752
+Requested Host:Port  www.google.com:443
+Requested Target  www.google.com:443
+Action  Blocked
+Response Status  HTTP/1.1 403 Forbidden
+
+Jan 08, 2026 8:04:36 PM Log put
+INFO: Client IP:Port  /127.0.0.1:52286
+Requested Host:Port  www.google.com:443
+Requested Target  www.google.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:11 PM Log put
+INFO: Client IP:Port  /127.0.0.1:59106
+Requested Host:Port  www.iitr.ac.in:80
+Requested Target  http://www.iitr.ac.in/
+Action  Allowed
+Response Status  HTTP/1.1 301 Moved Permanently
+Size Transferred  178
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42242
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42280
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42224
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42298
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42326
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42232
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42358
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42268
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42372
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42304
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42252
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42340
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42356
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42196
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42198
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42318
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42322
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42316
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42370
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:47:58 PM Log put
+INFO: Client IP:Port  /127.0.0.1:42286
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 9:49:20 PM Log put
+INFO: Client IP:Port  /127.0.0.1:40700
+Requested Host:Port  www.google.com:443
+Requested Target  www.google.com:443
+Action  Blocked
+Response Status  HTTP/1.1 403 Forbidden
+
+Jan 08, 2026 10:08:11 PM Log put
+INFO: Client IP:Port  /127.0.0.1:40518
+Requested Host:Port  www.google.com:80
+Requested Target  http://www.google.com/
+Action  Allowed
+Response Status  HTTP/1.1 200 OK
+Size Transferred  0
+
+Jan 08, 2026 10:09:52 PM Log put
+INFO: Client IP:Port  /127.0.0.1:43846
+Requested Host:Port  www.iitr.ac.in:80
+Requested Target  http://www.iitr.ac.in/
+Action  Allowed
+Response Status  HTTP/1.1 301 Moved Permanently
+Size Transferred  178
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36636
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36644
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36740
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36688
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36646
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36622
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36614
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36642
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36724
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36708
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36696
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36686
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36700
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36786
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36676
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36746
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36732
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36668
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36754
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:10:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:36770
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
+Jan 08, 2026 10:11:32 PM Log put
+INFO: Client IP:Port  /127.0.0.1:53340
+Requested Host:Port  www.google.com:80
+Requested Target  http://www.google.com/
+Action  Blocked
+Response Status  HTTP/1.1 403 Forbidden
+Size Transferred  0
+
+Jan 08, 2026 10:11:38 PM Log put
+INFO: Client IP:Port  /127.0.0.1:53354
+Requested Host:Port  www.google.com:80
+Requested Target  http://www.google.com/
+Action  Blocked
+Response Status  HTTP/1.1 403 Forbidden
+Size Transferred  0
+
+Jan 08, 2026 10:11:43 PM Log put
+INFO: Client IP:Port  /127.0.0.1:54394
+Requested Host:Port  www.google.com:443
+Requested Target  www.google.com:443
+Action  Blocked
+Response Status  HTTP/1.1 403 Forbidden
+
+Jan 08, 2026 10:12:08 PM Log put
+INFO: Client IP:Port  /127.0.0.1:48970
+Requested Host:Port  www.w3schools.com:443
+Requested Target  www.w3schools.com:443
+Action  Allowed
+Response Status  HTTP/1.1 200 Connection Established
+
